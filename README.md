@@ -6,6 +6,7 @@
 
 - JARVIS Kali Linux Surumu
 Bu kopya macOS bagimliliklari kaldirilmis Kali/Debian Linux surumudur. -BAGWELPOWER-
+✅ Debian tabanlı tüm Linux distrolarda çalışır
 
 Kurulum
 cd jarvis-kali-linux
